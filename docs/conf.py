@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Trend Micro Home'
+project = 'Trend Micro Secrity'
 copyright = '2025'
-author = 'Leonard Gardner'
+author = 'Pinckney Benedict'
 
 release = '1.0'
 
